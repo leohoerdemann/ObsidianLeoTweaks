@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "Leo-Tweaks",
+	"name": "Leo Tweaks",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Basic QOL tweaks for obsidian like pinch to zoom and file metadata adjustments",
+	"author": "Leo Hoerdemann",
+	"authorUrl": "https://github.com/leohoerdemann",
+	"fundingUrl": "https://buymeacoffee.com/__trip___",
 	"isDesktopOnly": false
 }
